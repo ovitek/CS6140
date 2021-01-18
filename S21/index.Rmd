@@ -13,7 +13,7 @@ Office hours: Tue and Fri after the class on Zoom, or by appointment.</p>
 [Mr. Divyarajsinhji (Divy) Jayvantsinh Solanki](https://www.linkedin.com/in/sicheng-hao-0a9481b2/).</br> Email: solanki.di@northeastern.edu</br> 
 Office hours: Mon and Thur 10:00-11:30am Eastern on Zoom, or by appointment.
 
-<p><strong>Course policies and administration:</strong></br> [Syllabus](CS6140_S21_syllabus.pdf), [Canvas](https://canvas.northeastern.edu).</br> 
+<p><strong>Course policies and administration:</strong></br> [Syllabus](S21/CS6140_S21_syllabus.pdf), [Canvas](https://canvas.northeastern.edu).</br> 
 Please use [Piazza](http://piazza.com/northeastern/spring2021/cs614002) (as opposed to email) for all communication.</br>
 [Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
 
