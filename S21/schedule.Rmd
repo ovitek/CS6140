@@ -6,31 +6,31 @@ Schedule is updated dynamically throughout the semester
 
 |  | DATE        | TOPIC            |READING        |      OUT |        DUE |
 |--| ---------   |:-----------------|:--------------| --------:| ----------:|
-|1| Tue, Jan 19  |Background & probability review   |CB 1-2||||           
-|2| Fri, Jan 22  |Statistical learning; k-NN regression, one-variable linear regression, least squares, regression vs correlation|JW 2.1;3.1</br>HT 2.1-2.4, 2.6, 3.2-3.2.2|  Hw1 out ||            
-|3| Tue, Jan 26  |Gaussian one-variable regression: maximum likelihood, gradient descent|CB 3.1.1-3.1.2</br>RW Ch 2, 5.1, 6.3|||
-|4| Fri, Jan 29  |Gaussian regression and gradient descent continued||||
-|5| Tue, Feb 2   |Multi-variable regression: categorical predictors, unequal variance, robust regression|JW 3.2-3.3||
-|6| Fri, Feb 5   |Overfitting, bias/variance tradeoff, variable selection, cross-validation|JW 5.1, 6.1,</br>HT 3.3, 7.2-7.3, 7.10, CB 3.2||Hw1 due|
-|7| Tue, Feb 9   |Regression in high dimensions: curse of dimensionality, regularization|JW 6.1-6.2,</br>HT 3.4.1-3.4.3, CB 3.1.4|Hw2 out||
-|8| Fri, Feb 12  |Regression in high dimensions</br>continued||||
-|9| Tue, Feb 16  |k-NN, perceptron, logistic regression, multinomial/softmax regression|JW 4.2-4.3, HT 4.2-4.4</br>CB 2.2, 4.1.7, 4.3|||
-|10| Fri, Feb 19  |Logistic regression continued||||
-|11| Tue, Feb 23  |Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians |HT 6.6.3,</br>CB 2.3.9; 2.5.2||Hw2 due</br>Proj group due|
+|1| Tue, Jan 19  |Background & probability review   |CB Ch 1-2, Murphy Ch2||||           
+|2| Fri, Jan 22  |Background & probability review continued||  Hw1 out ||            
+|3| Tue, Jan 26  |Statistical learning; k-NN regression, one-variable linear regression, least squares, regression vs correlation|JW 2.1;3.1</br>HT 2.1-2.4, 2.6, 3.2-3.2.2|||
+|4| Fri, Jan 29  |Gaussian one-variable regression: maximum likelihood, gradient descent|CB 3.1.1-3.1.2</br>RW Ch 2, 5.1, 6.3|||
+|5| Tue, Feb 2   |Gaussian regression and gradient descent continued||||
+|6| Fri, Feb 5   |Multi-variable regression: categorical predictors, unequal variance, robust regression|JW 3.2-3.3||Hw1 due|
+|7| Tue, Feb 9   |Overfitting, bias/variance tradeoff, variable selection, cross-validation|JW 5.1, 6.1,</br>HT 3.3, 7.2-7.3, 7.10, CB 3.2|Hw2 out||
+|8| Fri, Feb 12  |Regression in high dimensions: curse of dimensionality, regularization|JW 6.1-6.2,</br>HT 3.4.1-3.4.3, CB 3.1.4|||
+|9| Tue, Feb 16  |Regression in high dimensions</br>continued||||
+|10| Fri, Feb 19  |k-NN, perceptron, logistic regression, multinomial/softmax regression|JW 4.2-4.3, HT 4.2-4.4</br>CB 2.2, 4.1.7, 4.3|||
+|11| Tue, Feb 23  |Logistic regression continued|||Hw2 due</br>Proj group due|
 |12| Fri, Feb 26  |*Exam prep*||||
 |13| Tue, Mar 2   |**Midterm exam**||||
-|14| Fri, Mar 5   |k-means, EM algorithm and PCA|||
-|15| Tue, Mar 9   |LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2|||
+|14| Fri, Mar 5   |Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians |HT 6.6.3,</br>CB 2.3.9; 2.5.2|||
+|15| Tue, Mar 9   |k-means, EM algorithm and PCA||||
 |16| Fri, Mar 12  |**Project pitches** *(alt time)*||Hw3 out        |Project proposals due|            
-|17| Tue, Mar 16  |Kernels and kernel density estimation|JW 7.6,</br>HT 6.1-6.3, 6.6,</br> CB 2.5.1|||
-|18| Fri, Mar 19  |Support vector machines |JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1|||
-|19| Tue, Mar 23  |Support vector machines</br>continued|||
-|20| Fri, Mar 26  |Classification/regression trees|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6||Hw3 due|
-|21| Tue, Mar 30  |Bagging, random forest;</br>Boosting, model interpretation|JW 8.2</br>HT 10.1-10.2|Hw4 out ||
-|22| Fri, Apr 2   |Neural networks: representation|HT 11.3, CB 5.1-5.2|||
-|23| Tue, Apr 6   |Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
-|23| Fri, Apr 9   |Convolutional neural networks|CB 5.5.6|||
-|25| Tue, Apr 13  |*Extra/overflow topics*    |||Hw4 due |
+|17| Tue, Mar 16  |LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2|||
+|18| Fri, Mar 19  |Kernels and kernel density estimation|JW 7.6,</br>HT 6.1-6.3, 6.6,</br> CB 2.5.1|||
+|19| Tue, Mar 23  |Support vector machines |JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1||
+|20| Fri, Mar 26  |Support vector machines</br>continued|||Hw3 due|
+|21| Tue, Mar 30  |Classification/regression trees|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6|Hw4 out ||
+|22| Fri, Apr 2   |Bagging, random forest;</br>Boosting, model interpretation|JW 8.2</br>HT 10.1-10.2|||
+|23| Tue, Apr 6   |Neural networks: representation|HT 11.3, CB 5.1-5.2|||
+|23| Fri, Apr 9   |Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
+|25| Tue, Apr 13  |Convolutional neural networks|CB 5.5.6||Hw4 due |
 |26| Fri, Apr 16  |*Exam prep*||||
 |27| Tue, Apr 20  |**Final exam**||||
 |28| Fri, Apr 23  |**Project presentations**|||||
