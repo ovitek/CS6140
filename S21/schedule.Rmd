@@ -1,5 +1,5 @@
 <h1> Machine Learning, Spring 2021 </h1>
-Schedule is updated dynamically throughout the semester
+Schedule is updated dynamically during the semester
 </br>
 
 <font size="3">
