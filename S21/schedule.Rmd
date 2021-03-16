@@ -21,12 +21,12 @@ Schedule is updated dynamically throughout the semester
 || Tue, Mar 2   |**Midterm exam**||||
 || Fri, Mar 5   |Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians |HT 6.6.3,</br>CB 2.3.9; 2.5.2|||
 || Tue, Mar 9   |LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2|||
-|| Fri, Mar 12  |*No class. Project pitches 03/16, 6pm*||Hw3 out        ||            
-|| Tue, Mar 16  |k-means, EM algorithm and PCA|||Project proposals due 03/17|
+|| Fri, Mar 12  |*No class. Project pitches 03/16, 6pm*||        ||            
+|| Tue, Mar 16  |k-means, EM algorithm and PCA|JW 10; HT 14.3, 14.5;</br>CB 9.1-9.2|Hw3 out|Project proposals due 03/17|
 || Fri, Mar 19  |Kernels and kernel density estimation|JW 7.6,</br>HT 6.1-6.3, 6.6,</br> CB 2.5.1|||
 || Tue, Mar 23  |Support vector machines |JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1||
-|| Fri, Mar 26  |Support vector machines</br>continued|||Hw3 due|
-|| Tue, Mar 30  |Classification/regression trees|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6|Hw4 out ||
+|| Fri, Mar 26  |Support vector machines</br>continued||||
+|| Tue, Mar 30  |Classification/regression trees|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6|Hw4 out |Hw3 due|
 || Fri, Apr 2   |Bagging, random forest;</br>Boosting, model interpretation|JW 8.2</br>HT 10.1-10.2|||
 || Tue, Apr 6   |Neural networks: representation|HT 11.3, CB 5.1-5.2|||
 || Fri, Apr 9   |Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
