@@ -19,10 +19,10 @@ Schedule is updated dynamically throughout the semester
 || Tue, Feb 23  |Logistic regression continued||||
 || Fri, Feb 26  |*Exam prep*|||Hw2</br>Proj group due|
 || Tue, Mar 2   |**Midterm exam**||||
-|| Fri, Mar 5   |Bayes learning, MAP estimation, Naive Bayes, mixtures of Gaussians |HT 6.6.3,</br>CB 2.3.9; 2.5.2|||
+|| Fri, Mar 5   |Bayes learning, MAP estimation, Naive Bayes |HT 6.6.3,</br>CB 2.3.9; 2.5.2|||
 || Tue, Mar 9   |LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2|||
 || Fri, Mar 12  |*No class. Project pitches 03/16, 6pm*||        ||            
-|| Tue, Mar 16  |k-means, EM algorithm and PCA|JW 10; HT 14.3, 14.5;</br>CB 9.1-9.2|Hw3 out|Project proposals due 03/17|
+|| Tue, Mar 16  |PCA, k-means, EM algorithm, mixtures of Gaussians|JW 10; HT 14.3, 14.5;</br>CB 9.1-9.2|Hw3 out|Project proposals due 03/17|
 || Fri, Mar 19  |Kernels and kernel density estimation|JW 7.6,</br>HT 6.1-6.3, 6.6,</br> CB 2.5.1|||
 || Tue, Mar 23  |Support vector machines |JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1||
 || Fri, Mar 26  |Support vector machines</br>continued||||
