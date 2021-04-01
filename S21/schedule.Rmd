@@ -30,8 +30,8 @@ Schedule is updated dynamically throughout the semester
 || Fri, Apr 2   |Bagging, random forest;</br>Boosting, model interpretation|JW 8.2</br>HT 10.1-10.2|||
 || Tue, Apr 6   |Neural networks: representation|HT 11.3, CB 5.1-5.2|||
 || Fri, Apr 9   |Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
-|| Tue, Apr 13  |Convolutional neural networks|CB 5.5.6||Hw4 due |
-|| Fri, Apr 16  |*Exam prep*||||
+|| Tue, Apr 13  |Convolutional neural networks|CB 5.5.6|| |
+|| Fri, Apr 16  |*Exam prep*|||Hw4 due|
 || Tue, Apr 20  |**Final exam**||||
 || Fri, Apr 23  |**Project presentations**|||||
 || Mon, Apr 26  |    |     ||Project reports due|            
