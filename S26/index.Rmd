@@ -6,26 +6,21 @@ Machine learning is the study and design of algorithms, which enable computers/m
 At the end of the course the students will (1) understand and implement common machine learning methods, (2) recognize the problems that are amenable to machine learning, and perform appropriate data analysis, and (3) recognize failure points and threats to validity of the results.
 
 <p><strong>Instructor:</strong></br>
-[Prof. Olga Vitek](http://olga-vitek-lab.ccis.northeastern.edu/).</br> Email:o.vitek@northeastern.edu</br> 
-Office hours: Tue and Fri after the class on Zoom, or by appointment.</p>
+[Prof. Olga Vitek](https://olga-vitek-lab.khoury.northeastern.edu/).</br> Email:o.vitek@northeastern.edu</br> 
+Office hours: Tue and Fri after the class, or by appointment.</p>
 
-<p><strong>Teaching assistant:</strong></br>
-[Mr. Divyarajsinhji (Divy) Jayvantsinh Solanki](https://www.linkedin.com/in/dvsolanki/).</br>Email: solanki.di@northeastern.edu</br> 
-Office hours: Mon and Thur 10:00-11:30am Eastern on Zoom, or by appointment.
+<p><strong>Teaching assistants:</strong></br>
+[Mr. Ishan Biswas](mailto:biswas.is@northeastern.edu). Office hours Fridays from 3:00pm-4:00pm on zoom  (see canvas), or by appointment</br>
+[Mr. Chengyu Li](mailto:li.chengyu2@northeastern.edu). Office hours Wednesday 10:00am-11:00am on zoom (see canvas) and Thursday 11:00am-12:00pm Snell library (room number announced every week)</br>
+[Mr. Vivek Rangoju](mailto:rangoju.s@northeastern.edu). Office hours Wednesday 10:00am-11:00am on zoom (see canvas) and Thursday 11:00am-12:00pm Snell library (room number announced every week)
 
-<p><strong>Course policies and administration:</strong></br> [Syllabus](CS6140_S21_syllabus.pdf), [Canvas](https://canvas.northeastern.edu).</br> 
-Please use [Piazza](http://piazza.com/northeastern/spring2021/cs614002) (as opposed to email) for all communication.</br>
-[Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</p> 
+<p><strong>Course policies and administration:</strong></br> [Syllabus](CS6140_S26_syllabus.pdf), [Canvas](https://canvas.northeastern.edu).</br> 
+Please use [Piazza](https://piazza.com/northeastern/spring2026/cs614003) (as opposed to email) for all communication.</br>
+[Academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/) is strictly enforced.</p> 
 
 <p><strong>Required texts:</strong></br>
 (JW) [An Introduction to Statistical Learning.](https://statlearning.com/) G. James, D. Witten, T. Hastie, R. Tibshirani, Springer 2013.</br>
 (HT) [Elements of Statistical Learning.](https://web.stanford.edu/~hastie/ElemStatLearn/) T. Hastie, R. Tibshirani and J. Friedman, Springer, 2009.</br>
-(CB) [Pattern Recognition and Machine Learning.](https://www.microsoft.com/en-us/research/people/cmbishop/) C. M. Bishop, Springer 2006.</br>
-
-<p><strong>Optional texts:</strong></br>
-(Murphy) [Machine Learning: A Probabilistic Perspective.](https://probml.github.io/pml-book/) Kevin P. Murphy, MIT Press 2012.</br>
-(Duda) [Pattern Classification.](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471056693.html) R. O. Duda, P. E. Hart, D. Stork, Wiley and Sons, 2001.</br>
-(Mitchell) [Machine Learning.](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html) T. Mitchell, McGraw-Hill, 1997.</br>
-Additional texts are posted dynamically on Piazza
+(CB) [Pattern Recognition and Machine Learning.](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) C. M. Bishop, Springer 2006.</br>
 </p>
 
