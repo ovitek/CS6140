@@ -24,3 +24,6 @@ Please use [Piazza](https://piazza.com/northeastern/spring2026/cs614003) (as opp
 (CB) [Pattern Recognition and Machine Learning.](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) C. M. Bishop, Springer 2006.</br>
 </p>
 
+<p><strong>Optional texts:</strong></br>
+(KM) [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) K. Murphy, MIT Press 2022.</br>
+</p>
