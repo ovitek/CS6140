@@ -10,28 +10,28 @@ Schedule is updated dynamically throughout the semester
 || Tue, Jan 13  |Background & probability review continued|KM Ch2-3.2| Hw1 out ||            
 || Fri, Jan 16   |Statistical learning; one-variable linear regression, least squares, regression vs correlation|JW 2.1;3.1</br>HT 2.1-2.4, 2.6, 3.2-3.2.2|||
 || Tue, Jan 20  |Gaussian one-variable regression: maximum likelihood, gradient descent|CB 3.1.1-3.1.2</br>JW Ch 2, 5.1, 6.3|||
-|| Fri, Jan 23  |Multi-variable regression: categorical predictors, unequal variance, robust regression|JW 3.2-3.3|||
-|| Tue, Jan 27   |Overfitting, bias/variance tradeoff, variable selection, cross-validation|JW 5.1, 6.1,</br>HT 3.3, 7.2-7.3, 7.10, CB 3.2|Hw1 due|
-|| Fri, Jan 30   |Regression in high dimensions: curse of dimensionality, regularization|JW 6.1-6.2,</br>HT 3.4.1-3.4.3, CB 3.1.4||Hw2 out||
-|| Tue, Feb 3  |*Guest lecture: Prof. Eric Gerber* Regression in high dimensions</br>continued|||
-|| Fri, Feb 6  |*Guest lecture: Prof. Eric Gerber* k-NN, perceptron, logistic regression, multinomial/softmax regression|JW 4.2-4.3, HT 4.2-4.4</br>CB 2.2, 4.1.7, 4.3|||
-|| Tue, Feb 10  |Logistic regression continued|||
-|| Fri, Feb 13  |Bayes learning, MAP estimation, Naive Bayes |HT 6.6.3,</br>CB 2.3.9; 2.5.2|||Proj group due|
-|2| Tue, Feb 17  |LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2|||
-|| Fri, Feb 20   |PCA, k-means, EM algorithm, mixtures of Gaussians|JW 10; HT 14.3, 14.5;</br>CB 9.1-9.2||Hw2 due|
+|| Fri, Jan 23  |Gradient descent, continued|||
+|| Tue, Jan 27   |Multi-variable regression: categorical predictors, unequal variance, robust regression|JW 3.2-3.3||Hw1 due|
+|| Fri, Jan 30   |Overfitting, bias/variance tradeoff, variable selection, cross-validation|JW 5.1, 6.1,</br>HT 3.3, 7.2-7.3, 7.10, CB 3.2|Hw2 out||
+|| Tue, Feb 3  |*Guest lecture: Prof. Eric Gerber* Regression in high dimensions: curse of dimensionality, regularization|JW 6.1-6.2,</br>HT 3.4.1-3.4.3, CB 3.1.4|||
+|| Fri, Feb 6  |*Guest lecture: Prof. Eric Gerber* Regression in high dimensions</br>continued|||
+|| Tue, Feb 10  |k-NN, perceptron, logistic regression, multinomial/softmax regression|JW 4.2-4.3, HT 4.2-4.4</br>CB 2.2, 4.1.7, 4.3||Proj group due|
+|| Fri, Feb 13  |Logistic regression continued|||
+|2| Tue, Feb 17  |Bayes learning, MAP estimation, Naive Bayes |HT 6.6.3,</br>CB 2.3.9; 2.5.2||||
+|| Fri, Feb 20   |LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2||Hw2 due|
 || Tue, Feb 24   |**Midterm exam**|||
 || Fri, Feb 27   |**Project pitches** ||||
 || Tue, Mar 3  |**No class, Spring break** ||        ||            
 || Fri, Mar 6  |**No class, Spring break** ||||
-|| Tue, Mar 10  |Kernels and kernel density estimation|JW 7.6,</br>HT 6.1-6.3, 6.6,</br> CB 2.5.1|Hw3 out|Project proposals due 03/17|
-|3| Fri, Mar 13  |Support vector machines |JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1|||
-|| Tue, Mar 17  |Support vector machines</br>continued|||
-|| Fri, Mar 20  |Classification/regression trees|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6||||
-|| Tue, Mar 24   |Bagging, random forest;</br>Boosting, model interpretation|JW 8.2</br>HT 10.1-10.2 |Hw4 out |Hw3 due|
-|| Fri, Mar 27  |Neural networks: representation|HT 11.3, CB 5.1-5.2|||
-|| Tue, Mar 31   |Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
-|| Fri, Apr 3  |Convolutional neural networks|CB 5.5.6|||
-|| Tue, Apr 7  |||||
+|| Tue, Mar 10  |PCA, k-means, EM algorithm, mixtures of Gaussians|JW 10; HT 14.3, 14.5;</br>CB 9.1-9.2|Hw3 out|Project proposals due 03/17|
+|3| Fri, Mar 13  |Kernels and kernel density estimation|JW 7.6,</br>HT 6.1-6.3, 6.6,</br> CB 2.5.1|||
+|| Tue, Mar 17  |Support vector machines |JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1|||
+|| Fri, Mar 20  |Support vector machines</br>continued||Hw3 due||
+|| Tue, Mar 24   |Classification/regression trees|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6| |Hw4 out |Hw3 due|
+|| Fri, Mar 27  |Bagging, random forest;</br>Boosting, model interpretation|JW 8.2</br>HT 10.1-10.2|||
+|| Tue, Mar 31   |Neural networks: representation|HT 11.3, CB 5.1-5.2|||
+|| Fri, Apr 3  |Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
+|| Tue, Apr 7  |Convolutional neural networks|CB 5.5.6|||
 || Fri, Apr 10  ||||Hw4 due|
 || Tue, Apr 14  |**Final exam**|||||
 || Fri, Apr 17  |**Project presentations**    |     || |            
