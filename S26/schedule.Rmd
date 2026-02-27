@@ -19,15 +19,16 @@ Schedule is updated dynamically throughout the semester
 || Fri, Feb 13  |Logistic regression continued|||
 |2| Tue, Feb 17  |Bayes learning, MAP estimation, Naive Bayes |HT 6.6.3,</br>CB 2.3.9; 2.5.2||||
 || Fri, Feb 20   |LDA, regularized LDA, diagonal LDA, nearest shrunken centroids|JW 4.4, HT 4.3, 18.2</br>CB 4.1.1-4.1.6, 4.2||Hw2 due|
-|| Tue, Feb 24   |**Midterm exam**|||
-|| Fri, Feb 27   |**Project pitches** ||||
+|| Tue, Feb 24   |**Midterm exam</br>(Cancelled, snow day instead)**|||
+|| Fri, Feb 27   |**Project pitches</br>(Postponed, midterm instead)** ||||
 || Tue, Mar 3  |**No class, Spring break** ||        ||            
 || Fri, Mar 6  |**No class, Spring break** ||||
-|| Tue, Mar 10  |PCA, k-means, EM algorithm, mixtures of Gaussians|JW 10; HT 14.3, 14.5;</br>CB 9.1-9.2|Hw3 out|Project proposals due 03/17|
+|| Mon, Mar 9   |**Project pitches on zoom** ||||
+|| Tue, Mar 10  |PCA, k-means, EM algorithm, mixtures of Gaussians|JW 10; HT 14.3, 14.5;</br>CB 9.1-9.2|Hw3 out||
 |3| Fri, Mar 13  |Kernels and kernel density estimation|JW 7.6,</br>HT 6.1-6.3, 6.6,</br> CB 2.5.1|||
-|| Tue, Mar 17  |Support vector machines |JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1|||
-|| Fri, Mar 20  |Support vector machines</br>continued||Hw3 due||
-|| Tue, Mar 24   |Classification/regression trees|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6| |Hw4 out |Hw3 due|
+|| Tue, Mar 17  |Support vector machines |JW 9.1-4, </br>HT 4.5, 12.1-12.3.4, CB 7.1||Project proposals due|
+|| Fri, Mar 20  |Support vector machines</br>continued||||
+|| Tue, Mar 24   |Classification/regression trees|JW 8.1-8.2,</br>HT 9.2, 15.1-15.3, CB 1.6| Hw4 out |Hw3 due|
 || Fri, Mar 27  |Bagging, random forest;</br>Boosting, model interpretation|JW 8.2</br>HT 10.1-10.2|||
 || Tue, Mar 31   |Neural networks: representation|HT 11.3, CB 5.1-5.2|||
 || Fri, Apr 3  |Neural networks: training|HT 11.4-11.7</br>CB 5.3-5.5.5|||
